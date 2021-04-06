@@ -1,10 +1,13 @@
 # TwitchChatController
 ### Carlos Astengo Macias
+
 ![ShowCase](https://user-images.githubusercontent.com/81842396/113789767-6a5c5a00-9705-11eb-9a10-9ad7326a5078.gif)
+
 #### What is it?
 This program uses messages from twitch chat to simulate inputs such as pressing a key
 #### How to use it?
 Change the credentials oauthKey, nickname and channelName to your own credentials.
+
 ![image](https://user-images.githubusercontent.com/81842396/113790864-f5d6ea80-9707-11eb-9327-aad101fda79a.png)
 
 You can get your OAuthkey in  https://twitchapps.com/tmi/, nickname can be pretty much any name you want and channelName is the name of the channel you want to join.
